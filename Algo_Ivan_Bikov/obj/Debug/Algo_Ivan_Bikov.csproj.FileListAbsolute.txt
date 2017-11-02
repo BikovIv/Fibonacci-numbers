@@ -1,0 +1,7 @@
+C:\Users\Ivan\source\repos\Algo_Ivan_Bikov\Algo_Ivan_Bikov\bin\Debug\Algo_Ivan_Bikov.exe.config
+C:\Users\Ivan\source\repos\Algo_Ivan_Bikov\Algo_Ivan_Bikov\bin\Debug\Algo_Ivan_Bikov.exe
+C:\Users\Ivan\source\repos\Algo_Ivan_Bikov\Algo_Ivan_Bikov\bin\Debug\Algo_Ivan_Bikov.pdb
+C:\Users\Ivan\source\repos\Algo_Ivan_Bikov\Algo_Ivan_Bikov\obj\Debug\Algo_Ivan_Bikov.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\source\repos\Algo_Ivan_Bikov\Algo_Ivan_Bikov\obj\Debug\Algo_Ivan_Bikov.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Algo_Ivan_Bikov\Algo_Ivan_Bikov\obj\Debug\Algo_Ivan_Bikov.exe
+C:\Users\Ivan\source\repos\Algo_Ivan_Bikov\Algo_Ivan_Bikov\obj\Debug\Algo_Ivan_Bikov.pdb
